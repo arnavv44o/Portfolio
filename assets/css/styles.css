@@ -633,5 +633,13 @@ img{
     right: 10%;
   }
 }
+@media only screen and (max-width: 768px) {
+  .home__img{
+    width: 100%;
+  }
+    
+  
+}
+
 
 
